@@ -1,6 +1,6 @@
 management.endpoints.web.exposure.include: "*"
 
-biz.application.name.limit: 10
+biz.application.name.limit: 25
 
 spring:
   jpa:
