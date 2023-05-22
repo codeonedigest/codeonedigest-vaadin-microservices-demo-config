@@ -1,7 +1,5 @@
 management.endpoints.web.exposure.include: "*"
 
-biz.application.name.limit: 10
-
 spring:
   jpa:
     hibernate.ddl-auto: update
